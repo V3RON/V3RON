@@ -1,30 +1,13 @@
-```
-  _   _      _ _         _   _                       ___ _
- | | | | ___| | | ___   | |_| |__   ___ _ __ ___    |_ _( )_ __ ___
- | |_| |/ _ \ | |/ _ \  | __| '_ \ / _ \ '__/ _ \    | ||/| '_ ` _ \
- |  _  |  __/ | | (_) | | |_| | | |  __/ | |  __/_   | |  | | | | | |
- |_| |_|\___|_|_|\___/   \__|_| |_|\___|_|  \___( ) |___| |_| |_| |_|
-                                                |/
+<div align="center">
+  <img src="assets/speaking-conference.jpg" alt="Speaking about file-based router for React Native at conference" width="600" />
+  
+  
+  I'm currently building next-generation tools at <a href="https://www.callstack.com" target="_blank">Callstack</a>
+  
+  <p>Feel free to reach out to me on my social accounts regarding my work or consultation.</p>
 
-███████╗███████╗██╗   ██╗███╗   ███╗ ██████╗ ███╗   ██╗     ██████╗██╗  ██╗███╗   ███╗ █████╗ ██╗
-██╔════╝╚══███╔╝╚██╗ ██╔╝████╗ ████║██╔═══██╗████╗  ██║    ██╔════╝██║  ██║████╗ ████║██╔══██╗██║
-███████╗  ███╔╝  ╚████╔╝ ██╔████╔██║██║   ██║██╔██╗ ██║    ██║     ███████║██╔████╔██║███████║██║
-╚════██║ ███╔╝    ╚██╔╝  ██║╚██╔╝██║██║   ██║██║╚██╗██║    ██║     ██╔══██║██║╚██╔╝██║██╔══██║██║
-███████║███████╗   ██║   ██║ ╚═╝ ██║╚██████╔╝██║ ╚████║    ╚██████╗██║  ██║██║ ╚═╝ ██║██║  ██║███████╗
-╚══════╝╚══════╝   ╚═╝   ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═══╝     ╚═════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝
-```
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/szymon-chmal)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ChmalSzymon)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/v3ron)
 
-## My toolset
-
-<img align="left" alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img align="left" alt="Angular" src="https://img.shields.io/badge/angular%20-%2320232a.svg?&style=for-the-badge&logo=angular&color=dd1b16" />
-<img align="left" alt="GraphQL" src="https://img.shields.io/badge/graphql%20-%2320232a.svg?&style=for-the-badge&logo=GraphQL&color=e535ab&logoColor=ffffff" />
-<img align="left" alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCss%20-%2320232a.svg?&style=for-the-badge&logo=Tailwind%20CSS&color=17A8CA&logoColor=ffffff" />
-<br /><br />
-
-## Reach me on
-
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/szymon-chmal/)
-[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@szymon_chmal)
-[<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/9692012/aitwar)
-
+</div>
