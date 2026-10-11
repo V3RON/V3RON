@@ -34,7 +34,6 @@ LINES = [
     ("cmd", P + [("whoami", TEXT)]),
     ("out", [("Szymon Chmal", TEXT)]),
     ("out", [("Incubator (R&D) Lead at Callstack · Microsoft MVP", MUTED)]),
-    ("out", [("building the React Native tools I wish I had", MUTED)]),
     ("gap", []),
     ("cmd", P + [("ls", TEXT), (" ~/oss", MUTED)]),
     ("out", [("rozenite   ", TEXT), ("DevTools plugins for React Native, web and agents", MUTED)]),
@@ -133,8 +132,8 @@ bar = (
 )
 
 label = (
-    "Terminal. whoami: Szymon Chmal, Incubator (R&D) Lead at Callstack, Microsoft MVP, "
-    "building the React Native tools I wish I had. ls ~/oss: rozenite, voltra, harness, appduct, simlock. "
+    "Terminal. whoami: Szymon Chmal, Incubator (R&D) Lead at Callstack, Microsoft MVP. "
+    "ls ~/oss: rozenite, voltra, harness, appduct, simlock. "
     "cat ~/coffee.txt: Like the tools? Buy me a coffee: github.com/sponsors/v3ron"
 )
 svg = (
