@@ -34,6 +34,7 @@ LINES = [
     ("cmd", P + [("whoami", TEXT)]),
     ("out", [("Szymon Chmal", TEXT)]),
     ("out", [("Incubator (R&D) Lead at Callstack · Microsoft MVP", MUTED)]),
+    ("out", [("Working on ", MUTED), ("AI-SDLC", TEXT), (" and ", MUTED), ("Software Factories", TEXT)]),
     ("gap", []),
     ("cmd", P + [("ls", TEXT), (" ~/oss", MUTED)]),
     ("out", [("rozenite   ", TEXT), ("DevTools plugins for React Native, web and agents", MUTED)]),
@@ -140,7 +141,7 @@ bar = (
 )
 
 label = (
-    "Terminal. whoami: Szymon Chmal, Incubator (R&D) Lead at Callstack, Microsoft MVP. "
+    "Terminal. whoami: Szymon Chmal, Incubator (R&D) Lead at Callstack, Microsoft MVP, working on AI-SDLC and Software Factories. "
     "ls ~/oss: rozenite, voltra, harness, appduct, simlock. "
     "cat ~/talks.txt: 50+ talks on React Native internals, DevTools and testing, including "
     "WeAreDevelopers World Congress (DE), Chain React (US), React Miami (US), "
