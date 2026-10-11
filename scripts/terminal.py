@@ -53,6 +53,7 @@ LINES = [
     ("gap", []),
     ("cmd", P + [("cat", TEXT), (" ~/coffee.txt", MUTED)]),
     ("out", [("Like the tools? Buy me a coffee: ", MUTED), ("github.com/sponsors/v3ron", ACCENT)]),
+    ("gap", []),
     ("end", P),
 ]
 
