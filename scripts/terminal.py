@@ -42,6 +42,14 @@ LINES = [
     ("out", [("appduct    ", TEXT), ("Your running app as an MCP server for agents and tests", MUTED)]),
     ("out", [("simlock    ", TEXT), ("Simulator leases, so parallel agents stop colliding", MUTED)]),
     ("gap", []),
+    ("cmd", P + [("cat", TEXT), (" ~/talks.txt", MUTED)]),
+    ("out", [("50+ talks on React Native internals, DevTools and testing, including:", MUTED)]),
+    ("out", [("WeAreDevelopers World Congress   ", TEXT), ("DE", FAINT)]),
+    ("out", [("Chain React                      ", TEXT), ("US", FAINT)]),
+    ("out", [("React Miami                      ", TEXT), ("US", FAINT)]),
+    ("out", [("React Native Connection          ", TEXT), ("FR", FAINT)]),
+    ("out", [("React Universe Conf              ", TEXT), ("PL", FAINT)]),
+    ("gap", []),
     ("cmd", P + [("cat", TEXT), (" ~/coffee.txt", MUTED)]),
     ("out", [("Like the tools? Buy me a coffee: ", MUTED), ("github.com/sponsors/v3ron", ACCENT)]),
     ("end", P),
@@ -134,6 +142,9 @@ bar = (
 label = (
     "Terminal. whoami: Szymon Chmal, Incubator (R&D) Lead at Callstack, Microsoft MVP. "
     "ls ~/oss: rozenite, voltra, harness, appduct, simlock. "
+    "cat ~/talks.txt: 50+ talks on React Native internals, DevTools and testing, including "
+    "WeAreDevelopers World Congress (DE), Chain React (US), React Miami (US), "
+    "React Native Connection (FR) and React Universe Conf (PL). "
     "cat ~/coffee.txt: Like the tools? Buy me a coffee: github.com/sponsors/v3ron"
 )
 svg = (
