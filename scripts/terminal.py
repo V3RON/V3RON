@@ -34,7 +34,6 @@ LINES = [
     ("cmd", P + [("whoami", TEXT)]),
     ("out", [("Szymon Chmal", TEXT)]),
     ("out", [("Incubator (R&D) Lead at Callstack · Microsoft MVP", MUTED)]),
-    ("out", [("Working on ", MUTED), ("AI-SDLC", TEXT), (" and ", MUTED), ("Software Factories", TEXT)]),
     ("gap", []),
     ("cmd", P + [("ls", TEXT), (" ~/oss", MUTED)]),
     ("out", [("rozenite   ", TEXT), ("DevTools plugins for React Native, web and agents", MUTED)]),
@@ -44,7 +43,8 @@ LINES = [
     ("out", [("simlock    ", TEXT), ("Simulator leases, so parallel agents stop colliding", MUTED)]),
     ("gap", []),
     ("cmd", P + [("cat", TEXT), (" ~/talks.txt", MUTED)]),
-    ("out", [("50+ talks on React Native internals, DevTools and testing, including:", MUTED)]),
+    ("out", [("50+ talks on React Native internals, DevTools, testing,", MUTED)]),
+    ("out", [("AI-SDLC and Software Factories, including:", MUTED)]),
     ("out", [("WeAreDevelopers World Congress   ", TEXT), ("DE", FAINT)]),
     ("out", [("Chain React                      ", TEXT), ("US", FAINT)]),
     ("out", [("React Miami                      ", TEXT), ("US", FAINT)]),
@@ -141,9 +141,9 @@ bar = (
 )
 
 label = (
-    "Terminal. whoami: Szymon Chmal, Incubator (R&D) Lead at Callstack, Microsoft MVP, working on AI-SDLC and Software Factories. "
+    "Terminal. whoami: Szymon Chmal, Incubator (R&D) Lead at Callstack, Microsoft MVP. "
     "ls ~/oss: rozenite, voltra, harness, appduct, simlock. "
-    "cat ~/talks.txt: 50+ talks on React Native internals, DevTools and testing, including "
+    "cat ~/talks.txt: 50+ talks on React Native internals, DevTools, testing, AI-SDLC and Software Factories, including "
     "WeAreDevelopers World Congress (DE), Chain React (US), React Miami (US), "
     "React Native Connection (FR) and React Universe Conf (PL). "
     "cat ~/coffee.txt: Like the tools? Buy me a coffee: github.com/sponsors/v3ron"
